@@ -1,4 +1,7 @@
 # Logs
+.gitignore
+.codex
+agents.md
 logs
 *.log
 npm-debug.log*
