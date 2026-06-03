@@ -1,6 +1,8 @@
 # Logs
 .gitignore
 .codex
+instructions.md
+.prettierc.json
 agents.md
 logs
 *.log
